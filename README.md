@@ -31,6 +31,10 @@ cd jumping-gravity
 python main.py
 ```
 
+##### Query Dataset
+```
+SELECT * FROM `deep-q.stocks.quote_aggregates`
+```
 
 ##### Info
 - Tested on python version 3.7.9
