@@ -1,4 +1,4 @@
-# nPlan
+# Jumping Gravity
 Data Engineering assessment for nPlan
 
 
