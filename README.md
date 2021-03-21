@@ -1,12 +1,26 @@
 # nPlan
 Data Engineering assessment for nPlan
 
-<image src="data-engineering-take-home.pdf"/>
+
+### Current Architecture
+![Current Architecture](./docs/current_architecture.png)
+
+<br>
+<br>
+
+### Future Architecture
+![Future Architecture](./docs/future_architecture.png)
 
 
-### Creative a .env file in project root and set the following variables
+#### Setup
+
+##### Create .env file in project root and set the following variables
 ```
-PUBLISHABLE_TOKEN=[PUBLISHABLE_TOKEN]
-PROJECT_ID=[PROJECT_ID]
+PUBLISHABLE_TOKEN=[IEX_PUBLISHABLE_TOKEN]
+PROJECT_ID=[GCP_PROJECT_ID]
 GOOGLE_APPLICATION_CREDENTIALS=[GOOGLE_APPLICATION_CREDENTIALS]
 ```
+
+
+##### Info
+- Tested on python version 3.7.9
