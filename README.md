@@ -1,5 +1,4 @@
 # Jumping Gravity
-Data Engineering assessment for nPlan.
 
 
 ### Current Architecture
